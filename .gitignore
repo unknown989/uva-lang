@@ -1,0 +1,4 @@
+Makefile
+.venv
+.vscode
+*.pyc

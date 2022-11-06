@@ -1,0 +1,10 @@
+[v] - Build a stable usable language
+        - functions
+        - variables
+        - types
+        - return statement
+
+[x] - Add Conditions and Loops
+[x] - Build the STL
+[x] - Build the lexer, parser and typechecker
+[x] - If possible add a compiler

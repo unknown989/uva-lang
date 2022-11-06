@@ -1,0 +1,9 @@
+var a : int = 1;
+var b : int = 2;
+
+function sum(a : int, b:int){
+	return a + b - a;
+}
+function main(){
+	sum(a + b);
+}
