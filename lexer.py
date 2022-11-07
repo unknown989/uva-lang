@@ -238,7 +238,6 @@ class Lexer:
                 break
 
             c = self.get_char()
-
             if c.isspace():
                 c = self.get_char()
                 token_str = ""
